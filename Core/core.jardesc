@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="F:/FinalReport/jr/core.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Core/core.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=dynamicreports-core/src\/test\/resources"/>
+        <folder path="/dynamicreports-core/target"/>
+        <file path="/dynamicreports-core/.project"/>
+        <javaElement handleIdentifier="=dynamicreports-core/target\/generated-sources\/xjc"/>
+        <file path="/dynamicreports-core/pom.xml"/>
+        <folder path="/dynamicreports-core/src"/>
+        <javaElement handleIdentifier="=dynamicreports-core/src\/test\/java"/>
+        <javaElement handleIdentifier="=dynamicreports-core/src\/main\/resources"/>
+        <file path="/dynamicreports-core/.classpath"/>
+        <javaElement handleIdentifier="=dynamicreports-core/src\/main\/java"/>
+    </selectedElements>
+</jardesc>
